@@ -1312,7 +1312,7 @@
 
 	body {
 		background-color: #183026;
-		background-image: /*url("images/overlay.png"),*/ url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -2259,9 +2259,9 @@
 		/* Basic */
 
 			body {
-/* 				background-color: #203936; */
-/* 				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg"); */
-				background-repeat: no-repeat;
+				background-color: #203936;
+				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
+				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
 				background-attachment: scroll, scroll;
