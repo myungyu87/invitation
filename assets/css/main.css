@@ -2100,7 +2100,7 @@
 		-ms-box-sizing: content-box;
 		box-sizing: content-box;
 		background: #fff;
-		padding-bottom: 3em;
+/* 		padding-bottom: 3em; */
 	}
 
 		.poptrox-popup .loader {
